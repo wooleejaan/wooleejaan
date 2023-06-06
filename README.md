@@ -1,3 +1,3 @@
 <div style="width: 100%;">
-  <img src="hello.svg" style="width: 100%;" alt="welcome" />
+  <img src="welcome.svg" style="width: 100%;" alt="welcome" />
 </div>
