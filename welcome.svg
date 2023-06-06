@@ -49,6 +49,7 @@
         font-weight: 700;
         font-family: "Open Sans", sans-serif;
         text-align: center;
+        color: #564d95;
       }
 
       .hi {
