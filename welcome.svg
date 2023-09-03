@@ -74,11 +74,11 @@
       }
 
       .animate-fade-in-bottom {
-        animation: fade-in-bottom 0.4s cubic-bezier(0, 0, 0.2, 1) forwards;
+        animation: fade-in-bottom 0.8s cubic-bezier(0, 0, 0.2, 1) forwards;
       }
 
       .animate-fade-in-bottom-later {
-        animation: fade-in-bottom 1s cubic-bezier(0, 0, 0.2, 1) forwards;
+        animation: fade-in-bottom 1.4s cubic-bezier(0, 0, 0.2, 1) forwards;
       }
 
       @keyframes fade-in-bottom {
