@@ -2,10 +2,13 @@
   <foreignObject width="100%" height="100%">
   <div xmlns="http://www.w3.org/1999/xhtml">
     <style>
+
+      
       * {
         margin: 0;
         padding: 0;
         color: inherit;
+        font-family: 'Roboto', sans-serif;
         text-decoration: none;
         list-style: none;
         outline: none;
@@ -45,11 +48,11 @@
       }
 
       h1 {
-        font-size: 36px;
-        font-weight: 700;
+        font-size: 24px;
+        font-weight: 600;
         font-family: "Open Sans", sans-serif;
         text-align: center;
-        color: #564d95;
+        color: #111;
       }
 
       .hi {
@@ -58,6 +61,38 @@
         transform-origin: 70% 70%;
         animation: hi 3s linear -2s infinite;
       }
+
+      .title {
+        opacity: 0;
+        <!-- animation-delay: 0.4s; -->
+      }
+
+      .description {
+        opacity: 0;
+        color: #564d95;
+        <!-- animation-delay: 1s; -->
+      }
+
+      .animate-fade-in-bottom {
+        animation: fade-in-bottom 0.4s cubic-bezier(0, 0, 0.2, 1) forwards;
+      }
+
+      .animate-fade-in-bottom-later {
+        animation: fade-in-bottom 1s cubic-bezier(0, 0, 0.2, 1) forwards;
+      }
+
+      @keyframes fade-in-bottom {
+        from {
+          opacity: 0;
+          transform: translate3d(0, -20px, 0);
+        }
+        to {
+          opacity: 1;
+          transform: translate3d(0, 0, 0);
+        }
+     }
+
+      
 
       @media (prefers-color-scheme: light) {
         .body {
@@ -115,7 +150,8 @@
     </style>
     <div class="body">
       <div class="container">
-        <h1>안녕하세요, 이용우입니다.<div class="hi">👋</div></h1>
+        <h1 class="title animate-fade-in-bottom">안녕하세요, 이용우입니다<div class="hi">👋</div></h1>
+        <p class="description animate-fade-in-bottom-later">front-end developer</p>
       </div>
     </div>
   </div>
