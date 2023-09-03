@@ -64,21 +64,23 @@
 
       .title {
         opacity: 0;
-        <!-- animation-delay: 0.4s; -->
+        animation-delay: 0.4s;
       }
 
       .description {
         opacity: 0;
+        font-size: 16px;
+        font-weight: 600;
         color: #564d95;
-        <!-- animation-delay: 1s; -->
+        animation-delay: 0.7s;
       }
 
       .animate-fade-in-bottom {
-        animation: fade-in-bottom 0.8s cubic-bezier(0, 0, 0.2, 1) forwards;
+        animation: fade-in-bottom 1.2s cubic-bezier(0, 0, 0.2, 1) forwards;
       }
 
       .animate-fade-in-bottom-later {
-        animation: fade-in-bottom 1.4s cubic-bezier(0, 0, 0.2, 1) forwards;
+        animation: fade-in-bottom 1.6s cubic-bezier(0, 0, 0.2, 1) forwards;
       }
 
       @keyframes fade-in-bottom {
