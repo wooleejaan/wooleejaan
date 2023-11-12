@@ -1,19 +1,8 @@
-<style>
-  table, th, td {
-    padding: 0px;
-    margin: 0px;
-  }
-
-  td, th {
-    border: none!important;
-  }
-</style>
-
 <!-- <div style="width: 100%;">
   <img src="welcome.svg" style="width: 100%;" alt="welcome!" />
 </div> -->
 
-<div align="center" style="text-align:center">
+<div align="center" style="text-align:center; border:none;">
 
 <table>
 
