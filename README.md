@@ -2,10 +2,14 @@
   <img src="welcome.svg" style="width: 100%;" alt="welcome!" />
 </div>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wooleejaan&repo=august-archive)](https://github.com/wooleejaan/august-archive)
+<div align="center" style="text-align:center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wooleejaan&repo=yw-algorithms)](https://github.com/wooleejaan/yw-algorithms)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wooleejaan&repo=august-archive&show_owner=true)](https://github.com/wooleejaan/august-archive)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wooleejaan&repo=yw-playgrounds)](https://github.com/wooleejaan/yw-playgrounds)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wooleejaan&repo=yw-algorithms&show_owner=true)](https://github.com/wooleejaan/yw-algorithms)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wooleejaan&repo=yw-frontend)](https://github.com/wooleejaan/yw-frontend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wooleejaan&repo=yw-playgrounds&show_owner=true)](https://github.com/wooleejaan/yw-playgrounds)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wooleejaan&repo=yw-frontend&show_owner=true)](https://github.com/wooleejaan/yw-frontend)
+
+</div>
