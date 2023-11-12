@@ -2,7 +2,18 @@
   <img src="welcome.svg" style="width: 100%;" alt="welcome!" />
 </div> -->
 
-<div align="center" style="text-align:center; border:none;">
+<style>
+  table, th, td {
+    padding: 0px;
+    margin: 0px;
+  }
+
+  td, th {
+    border: none!important;
+  }
+</style>
+
+<div align="center" style="text-align:center">
 
 <table>
 
