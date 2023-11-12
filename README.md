@@ -2,7 +2,7 @@
   <img src="welcome.svg" style="width: 100%;" alt="welcome!" />
 </div>
 
-<div align="center" style="text-align:center">
+<div align="center" style="border:0px solid white; width:100%;">
 
 <table>
 
