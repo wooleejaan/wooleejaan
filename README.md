@@ -1,37 +1,10 @@
-<!-- <div style="width: 100%;">
+<div style="width: 100%;">
   <img src="welcome.svg" style="width: 100%;" alt="welcome!" />
-</div> -->
-
-<style>
-  table, th, td {
-    padding: 0px;
-    margin: 0px;
-  }
-
-  td, th {
-    border: none!important;
-  }
-</style>
+</div>
 
 <div align="center" style="text-align:center">
 
 <table>
-
-<tr>
-
-<td>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wooleejaan&repo=august-archive&show_owner=true)](https://github.com/wooleejaan/august-archive)
-
-</td>
-
-<td>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wooleejaan&repo=yw-algorithms&show_owner=true)](https://github.com/wooleejaan/yw-algorithms)
-
-</td>
-
-</tr>
 
 <tr>
 
