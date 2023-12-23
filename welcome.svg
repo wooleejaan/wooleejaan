@@ -2,8 +2,6 @@
   <foreignObject width="100%" height="100%">
   <div xmlns="http://www.w3.org/1999/xhtml">
     <style>
-
-      
       * {
         margin: 0;
         padding: 0;
@@ -162,6 +160,7 @@
     </style>
     <div class="body">
       <div class="container">
+      <h1 class="title animate-fade-in-bottom"><div class="hi">👋</div></h1>
         <!-- <h1 class="title animate-fade-in-bottom">안녕하세요, 이용우입니다<div class="hi">👋</div></h1>
         <div class="spacing" /> -->
         <!-- <p class="description animate-fade-in-bottom">Frontend Engineer<div class="hi">👋</div></p> -->
