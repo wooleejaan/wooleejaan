@@ -1,4 +1,6 @@
-$${\color{black}Frontend \space Engineer}$$
+<!-- $${\color{black}Frontend \space Engineer}$$ -->
+
+Engineer
 
 - [blog](https://publish.obsidian.md/yongwoo/home)
 
