@@ -1,6 +1,6 @@
 <!-- $${\color{black}Frontend \space Engineer}$$ -->
 
-Engineer
+product engineer
 
 - [blog](https://publish.obsidian.md/yongwoo/home)
 
